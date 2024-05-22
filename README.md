@@ -1,5 +1,5 @@
 # game-one
-# pop game 💥💥🕳
+## pop game 💥💥🕳
 It's fun to waste time😃
 ## that is made by
 ```bash
